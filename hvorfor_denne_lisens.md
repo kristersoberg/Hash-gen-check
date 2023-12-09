@@ -1,0 +1,1 @@
+hvorfor_denne_lisens.md
