@@ -4,7 +4,7 @@ Basert på en gjennomgang av veilederen på https://choosealicense.com/ endte je
 
 MIT lisensen tillater at hvem som helst kan bruke den, både til privat og kommersielt bruk. Programmene jeg har produsert kan distribueres og modifiseres fritt
 slik at det kan tilpasses spesifikke behov, bruksområdet eller situasjoner.
-Lisensen krever at det lisensen og et notat om opphavsrett skal følge det lisensierte materialet.
+Lisensen krever at lisensen og et notat om opphavsrett skal følge det lisensierte materialet.
 
 Ved å bruke denne lisensen er jeg sikret mot å være ansvarlig for hva programmet eventuelt forårsaker, og at jeg ikke kan holdes ansvarlig hvis programmet ikke fungerer som det skal.
 
